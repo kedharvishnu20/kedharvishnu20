@@ -5,16 +5,16 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://kedharvishnu20.github.io/kedhar-portfolio/](https://kedharvishnu20.github.io/kedhar-portfolio/)
+- 👨‍💻 All of my projects are available at my portfolio[https://kedharvishnu20.github.io/kedhar-portfolio/](https://kedharvishnu20.github.io/kedhar-portfolio/)
 
 - 📫 How to reach me **kedharvishnu1925@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/kedharvishnu20/kedharvishnu20/blob/main/Resume.pdf](https://github.com/kedharvishnu20/kedharvishnu20/blob/main/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" >
 <a href="https://linkedin.com/in/kedhar-vishnu-buddepu-687499259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedhar-vishnu-buddepu-687499259/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kedharvishnu19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kedharvishnu19" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kedharvishnu19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kedharvishnu19" height="30" width="40" style="background-color:powderblue;" /></a>
 <a href="https://www.hackerrank.com/kedharvishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kedharvishnu" height="30" width="40" /></a>
 </p>
 
